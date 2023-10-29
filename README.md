@@ -1,4 +1,5 @@
-<img  alt="Code" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3cf06a29-04a0-4466-9f83-ab6b9658149f/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzNjZjA2YTI5LTA0YTAtNDQ2Ni05ZjgzLWFiNmI5NjU4MTQ5ZlwvZGVtcGdpNy01MjBmOGQ1Zi02M2Q0LTQ0NTMtODgyMi1kYmMxNDlhZTI3ZjguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TeuN0B5RgPUykYQkZXa8ArTYZ7GlxIpIVJUfQQMWCgM">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=A2F71D&background=1700FF00&center=true&random=false&width=435&lines=IT+engineering+Student+!+;Code+awesome+shits+!!;In+love+with+graphic+design...%3C3)](https://git.io/typing-svg)
+<img  alt="Code" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif">
 <h1 align="center">Hi 👋, I'm Marzougui Hazem</h1>
 <h3 align="center">Passionate with learning new stuffs .. <3</h3>
 <img align="center" alt="Coding" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
