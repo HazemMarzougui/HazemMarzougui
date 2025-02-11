@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=A2F71D&background=1700FF00&center=true&random=false&width=435&lines=IT+engineering+Student+!+;Code+awesome+shits+!!;In+love+with+graphic+design...%3C3)](https://git.io/typing-svg)
-<img  alt="Code" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif">
+<img  alt="Code" src="[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmlmM2c3NWJjZjZ3ZGZ2b3JmNGlkdHgyNTd6Y2tseWw1d3A0aWYxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)">
 <h1 align="center">Hi 👋, I'm Marzougui Hazem</h1>
 <h3 align="center">Passionate with learning new stuffs .. <3</h3>
 <img align="center" alt="Coding" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
