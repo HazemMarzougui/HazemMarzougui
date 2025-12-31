@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=A2F71D&background=1700FF00&center=true&random=false&width=435&lines=IT+engineering+Student+!+;Code+awesome+shits+!!;In+love+with+graphic+design...%3C3)](https://git.io/typing-svg)
+<br><br>
 <img  alt="Code" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1oaWd1bTYwY3g0OTh1YTl6eTM3Y3dyeW9wNmEzdmNhMnU5czl3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif">
 <h1 align="center">Hi 👋, I'm Marzougui Hazem</h1>
 <h3 align="center">Passionate with learning new stuffs .. <3</h3>
