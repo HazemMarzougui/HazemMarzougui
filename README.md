@@ -91,7 +91,11 @@
 #### ⚡ GitHub Streak
 <p align="center">
   <a href="https://github.com/hazemmarzougui">
-    <img height="180em" src="https://streak-stats.demolab.com/?user=hazemmarzougui&theme=radical&fire=DD2727" alt="GitHub Streak" />
+    <!-- Streak stats with light theme -->
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hazemmarzougui&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727" alt="GitHub Streak" />
+    
+    <!-- Alternative streak stats -->
+    <img height="180em" src="https://streak-stats.demolab.com?user=hazemmarzougui&theme=github-dark&hide_border=true&mode=weekly" alt="GitHub Streak" />
   </a>
 </p>
 
