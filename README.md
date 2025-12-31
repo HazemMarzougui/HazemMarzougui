@@ -37,7 +37,8 @@
 ---
 
 ### 🛠️ Languages and Tools
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <!-- Existing Logos -->
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -52,7 +53,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="Qt" width="40" height="40"/>
-  <!-- New DevOps / Cloud Logos -->
+
+  <!-- DevOps / Cloud Logos -->
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/>
@@ -67,11 +69,9 @@
 ---
 
 ### 📊 GitHub Stats
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=hazemmarzougui&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></td>
-<td><img src="https://github-readme-stats.vercel.app/api?username=hazemmarzougui&show_icons=true&locale=en" alt="GitHub Stats" /></td>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=hazemmarzougui" alt="Streak Stats" /></td>
-</tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hazemmarzougui&show_icons=true&layout=compact" alt="Top Languages" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hazemmarzougui&show_icons=true" alt="GitHub Stats" width="300"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hazemmarzougui" alt="Streak Stats" width="300"/>
+</div>
 
