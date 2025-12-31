@@ -80,18 +80,7 @@
 ---
 
 ### 📊 GitHub Statistics
-### 📊 GitHub Stats
 
-<div align="center">
-
-| ![](https://github-readme-stats.vercel.app/api?username=hazemmarzougui&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hazemmarzougui&layout=compact&hide_border=true&theme=radical) |
-| ------------- | ------------- |
-
-![GitHub Streak](https://streak-stats.demolab.com?user=hazemmarzougui&theme=radical&hide_border=true)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hazemmarzougui&theme=radical&no-frame=true&row=2&column=4)
-
-</div>
 #### 📈 Overall Stats
 <p align="center">
   <a href="https://github.com/hazemmarzougui">
@@ -104,7 +93,6 @@
   <a href="https://github.com/hazemmarzougui">
     <!-- Streak stats with light theme -->
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hazemmarzougui&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD2727" alt="GitHub Streak" />
-    <img height="180em" src="https://streak-stats.demolab.com?user=hazemmarzougui&theme=github-dark&hide_border=true&mode=weekly" alt="GitHub Streak" />
   </a>
 </p>
 
