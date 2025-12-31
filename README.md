@@ -84,8 +84,7 @@
 #### 📈 Overall Stats
 <p align="center">
   <a href="https://github.com/hazemmarzougui">
- <!-- Alternative 1: Simple stats with custom parameters -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hazemmarzougui&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=true" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazemmarzougui&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
 </p>
 
