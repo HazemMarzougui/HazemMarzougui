@@ -1,7 +1,6 @@
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&background=FF090900&width=500&height=50&lines=Hi%2C+I'm+Hazem+%F0%9F%91%8B;Multidisciplinary+Cloud+Engineer+%E2%98%81%EF%B8%8F;Turning+infrastructure+into+code+%F0%9F%9A%80;Passionate+about+learning+new+things+%F0%9F%92%A1" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&background=FF090900&width=653&height=62&lines=++++++++++++++++++Hi%2C+I'm+Hazem+%F0%9F%91%8B;Multidisciplinary+Cloud+Engineer+%E2%98%81%EF%B8%8F;Turning+infrastructure+into+code++%F0%9F%9A%80;Passionate+about+learning+new+things+%F0%9F%92%A1" alt="Typing SVG" />
+</a>
 </p>
 
 <h3 align="center">Cloud & DevOps Engineer in training 🚀</h3>
