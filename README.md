@@ -1,4 +1,4 @@
-<h1 align="center">Hazem Marzougui</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=26&duration=3000&pause=1000&color=58A6FF&background=FF090900&width=480&lines=Hi%2C+I'm+Hazem+%F0%9F%91%8B;Multidisciplinary+Cloud+Engineer+%E2%98%81%EF%B8%8F;Turning+infrastructure+into+code%2C+one+apply+at+a+time+%F0%9F%9A%80;Passionate+about+learning+new+things+%F0%9F%92%A1)](https://git.io/typing-svg)
 <h3 align="center">Cloud & DevOps Engineer in training 🚀</h3>
 
 <p align="center">
