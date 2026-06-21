@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Marzougui Hazem</h1>
 <h3 align="center">Passionate about learning new things 💡</h3>
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExam1oaWd1bTYwY3g0OTh1YTl6eTM3Y3dyeW9wNmEzdmNhMnU5czl3eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding" width="400"/>
-</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazemmarzougui&label=Profile%20views&color=0e75b6&style=flat" alt="hazemmarzougui" /> </p>
 
