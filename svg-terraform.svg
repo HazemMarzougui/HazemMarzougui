@@ -1,0 +1,61 @@
+<svg width="1000" height="330" viewBox="0 0 1000 330" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace, 'SFMono-Regular', Menlo, Consolas, 'Courier New', monospace">
+  <defs>
+    <clipPath id="c4"><rect x="0" y="0" width="1000" height="330" rx="14" ry="14"/></clipPath>
+    <style>
+      .dim{fill:#6f6480} .body{fill:#b8b0c4} .accent{fill:#f0a35a}
+    </style>
+  </defs>
+  <g clip-path="url(#c4)">
+    <rect width="1000" height="330" fill="#181022"/>
+    <rect x="0" y="0" width="1000" height="40" fill="#241a33"/>
+    <line x1="0" y1="40" x2="1000" y2="40" stroke="#332747"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="2.6s" repeatCount="indefinite"/>
+      <circle cx="24" cy="20" r="6" fill="#ff5f56"/>
+      <circle cx="44" cy="20" r="6" fill="#ffbd2e"/>
+      <circle cx="64" cy="20" r="6" fill="#27c93f"/>
+    </g>
+    <text x="500" y="25" text-anchor="middle" class="dim" font-size="13">&gt; terraform apply</text>
+
+    <text x="45" y="76" class="accent" font-size="15">$ terraform apply -var-file=skills.tfvars</text>
+
+    <g font-size="13.5">
+      <!-- row template: label, bar bg, bar fill, pct -->
+      <text x="45" y="112" class="body">module.skill.aws:</text>
+      <rect x="330" y="99" width="200" height="16" rx="3" fill="#241a33"/>
+      <rect x="330" y="99" width="160" height="16" rx="3" fill="#f0a35a"/>
+      <text x="540" y="112" class="accent">80%</text>
+
+      <text x="45" y="142" class="body">module.skill.kubernetes:</text>
+      <rect x="330" y="129" width="200" height="16" rx="3" fill="#241a33"/>
+      <rect x="330" y="129" width="140" height="16" rx="3" fill="#7aa2d8"/>
+      <text x="540" y="142" class="accent">70%</text>
+
+      <text x="45" y="172" class="body">module.skill.docker:</text>
+      <rect x="330" y="159" width="200" height="16" rx="3" fill="#241a33"/>
+      <rect x="330" y="159" width="160" height="16" rx="3" fill="#7aa2d8"/>
+      <text x="540" y="172" class="accent">80%</text>
+
+      <text x="45" y="202" class="body">module.skill.terraform:</text>
+      <rect x="330" y="189" width="200" height="16" rx="3" fill="#241a33"/>
+      <rect x="330" y="189" width="120" height="16" rx="3" fill="#b48ce0"/>
+      <text x="540" y="202" class="accent">60%</text>
+
+      <text x="45" y="232" class="body">module.skill.spring_boot:</text>
+      <rect x="330" y="219" width="200" height="16" rx="3" fill="#241a33"/>
+      <rect x="330" y="219" width="160" height="16" rx="3" fill="#f0a35a"/>
+      <text x="540" y="232" class="accent">80%</text>
+
+      <text x="45" y="262" class="body">module.skill.angular:</text>
+      <rect x="330" y="249" width="200" height="16" rx="3" fill="#241a33"/>
+      <rect x="330" y="249" width="120" height="16" rx="3" fill="#7aa2d8"/>
+      <text x="540" y="262" class="accent">60%</text>
+    </g>
+
+    <text x="45" y="300" class="body" font-size="14">Apply complete! 6 resources added, 0 destroyed.<tspan fill="#f0a35a">_<animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/></tspan></text>
+
+    <rect x="0" y="0" width="1000" height="330" rx="14" ry="14" fill="none" stroke="#f0a35a" stroke-opacity="0.35" stroke-width="1.5">
+      <animate attributeName="stroke-opacity" values="0.25;0.5;0.25" dur="4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

@@ -52,9 +52,12 @@
     <!-- title bar -->
     <rect x="0" y="0" width="1000" height="46" fill="#241a33"/>
     <line x1="0" y1="46" x2="1000" y2="46" stroke="#332747" stroke-width="1"/>
-    <circle cx="28" cy="23" r="6.5" fill="#ff5f56"/>
-    <circle cx="50" cy="23" r="6.5" fill="#ffbd2e"/>
-    <circle cx="72" cy="23" r="6.5" fill="#27c93f"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;0 -2;0 0" dur="2.6s" repeatCount="indefinite"/>
+      <circle cx="28" cy="23" r="6.5" fill="#ff5f56"/>
+      <circle cx="50" cy="23" r="6.5" fill="#ffbd2e"/>
+      <circle cx="72" cy="23" r="6.5" fill="#27c93f"/>
+    </g>
     <text x="500" y="28" text-anchor="middle" class="dim" font-size="14">&gt; hazem marzougui — zsh</text>
 
     <!-- prompt block -->
@@ -62,7 +65,7 @@
     <text x="50" y="140" class="accent bold mono" font-size="42">&gt; Hazem Marzougui</text>
     <text x="50" y="172" class="body" font-size="18">Cloud &amp; DevOps Engineer in training</text>
     <text x="50" y="197" class="dim" font-size="14">Final-year Cloud Computing @ ESPRIT · Intern @ LeadGen AI Platform</text>
-    <text x="50" y="252" class="dim" font-size="15">$ status: multidisciplinary, self-deployed, open to work_</text>
+    <text x="50" y="252" class="dim" font-size="15">$ status: multidisciplinary, self-deployed, open to work<tspan fill="#f0a35a">_<animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/></tspan></text>
 
     <!-- stack column -->
     <text x="640" y="80" class="dim" font-size="15">stack:</text>
@@ -72,6 +75,8 @@
     <text x="640" y="178" class="body" font-size="15">spring boot, angular</text>
     <text x="640" y="202" class="dim" font-size="15">java, php, mysql</text>
 
-    <rect x="0" y="0" width="1000" height="300" rx="14" ry="14" fill="none" stroke="#f0a35a" stroke-opacity="0.35" stroke-width="1.5"/>
+    <rect x="0" y="0" width="1000" height="300" rx="14" ry="14" fill="none" stroke="#f0a35a" stroke-opacity="0.35" stroke-width="1.5">
+      <animate attributeName="stroke-opacity" values="0.25;0.5;0.25" dur="4s" repeatCount="indefinite"/>
+    </rect>
   </g>
 </svg>

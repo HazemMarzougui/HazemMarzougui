@@ -20,140 +20,37 @@
 
 ## `$ cat about.md`
 
-```text
-$ whoami
-> Hazem Marzougui — Cloud & DevOps Engineer in training
-
-$ education --current
-> Final-year Cloud Computing student @ ESPRIT
-
-$ employment --current
-> DevOps / Cloud Engineer Intern @ LeadGen AI Platform
-
-$ preparing
-> AWS Certified CloudOps Engineer – Associate
-
-$ side_project --status running
-> Self-managed cloud-native infrastructure, built from bare metal:
-  controller / compute / storage nodes running Kubernetes-hosted VMs.
-
-$ status
-> multidisciplinary, self-deployed, open to work_
-```
+<img src="./svg-about.svg" alt="about me terminal" width="100%" />
 
 <br/>
 
 ## `$ stack --list`
 
-<table>
-<tr>
-<td valign="top" width="34%">
-
-**Cloud & DevOps**
-
-<img src="https://img.shields.io/badge/AWS-1a1023?style=flat-square&logo=amazonaws&logoColor=f0a35a&labelColor=1a1023" />
-<img src="https://img.shields.io/badge/Docker-1a1023?style=flat-square&logo=docker&logoColor=7aa2d8&labelColor=1a1023" />
-<img src="https://img.shields.io/badge/Kubernetes-1a1023?style=flat-square&logo=kubernetes&logoColor=7aa2d8&labelColor=1a1023" />
-<img src="https://img.shields.io/badge/Terraform-1a1023?style=flat-square&logo=terraform&logoColor=b48ce0&labelColor=1a1023" />
-<img src="https://img.shields.io/badge/Ansible-1a1023?style=flat-square&logo=ansible&logoColor=b48ce0&labelColor=1a1023" />
-<img src="https://img.shields.io/badge/Linux-1a1023?style=flat-square&logo=linux&logoColor=b8b0c4&labelColor=1a1023" />
-
-</td>
-<td valign="top" width="33%">
-
-**Backend**
-
-<img src="https://img.shields.io/badge/Spring_Boot-1a1023?style=flat-square&logo=springboot&logoColor=f0a35a&labelColor=1a1023" />
-<img src="https://img.shields.io/badge/Java-1a1023?style=flat-square&logo=openjdk&logoColor=f0a35a&labelColor=1a1023" />
-<img src="https://img.shields.io/badge/Symfony-1a1023?style=flat-square&logo=symfony&logoColor=b8b0c4&labelColor=1a1023" />
-<img src="https://img.shields.io/badge/Laravel-1a1023?style=flat-square&logo=laravel&logoColor=b8b0c4&labelColor=1a1023" />
-<img src="https://img.shields.io/badge/PHP-1a1023?style=flat-square&logo=php&logoColor=b8b0c4&labelColor=1a1023" />
-
-</td>
-<td valign="top" width="33%">
-
-**Frontend & Data**
-
-<img src="https://img.shields.io/badge/Angular-1a1023?style=flat-square&logo=angular&logoColor=7aa2d8&labelColor=1a1023" />
-<img src="https://img.shields.io/badge/MySQL-1a1023?style=flat-square&logo=mysql&logoColor=7aa2d8&labelColor=1a1023" />
-<img src="https://img.shields.io/badge/Git-1a1023?style=flat-square&logo=git&logoColor=b8b0c4&labelColor=1a1023" />
-<img src="https://img.shields.io/badge/JavaFX-1a1023?style=flat-square&logo=java&logoColor=b8b0c4&labelColor=1a1023" />
-<img src="https://img.shields.io/badge/FlutterFlow-1a1023?style=flat-square&logo=flutter&logoColor=b8b0c4&labelColor=1a1023" />
-
-</td>
-</tr>
-</table>
+<img src="./svg-stack.svg" alt="stack terminal" width="100%" />
 
 <br/>
 
 ## `$ kubectl get pods -n hazem-skills`
 
-```text
-NAME                          READY   STATUS    RESTARTS   AGE
-pod/turathai-platform         1/1     Running   0          8mo
-pod/inventrack-pro            1/1     Running   0          6mo
-pod/devops-internship         1/1     Running   0          3mo
-pod/self-managed-k8s-cluster  1/1     Running   0          2mo
-pod/aws-cloudops-cert         0/1     Pending    0          14d
-pod/tapeat-connect            1/1     Running   1          11mo
-
-$ kubectl rollout status deployment/career --watch
-Waiting for deployment "career" rollout to finish: 5 of 6 pods ready...
-deployment "career" successfully rolled out ✔
-```
+<img src="./svg-kubectl.svg" alt="kubectl terminal" width="100%" />
 
 <br/>
 
 ## `$ terraform apply`
 
-```text
-module.skill.aws:          Creating... [████████░░] 80%
-module.skill.kubernetes:   Creating... [███████░░░] 70%
-module.skill.docker:       Creating... [████████░░] 80%
-module.skill.terraform:    Creating... [██████░░░░] 60%
-module.skill.spring_boot:  Creating... [████████░░] 80%
-module.skill.angular:      Creating... [██████░░░░] 60%
-module.skill.php_symfony:  Creating... [██████████] 100% (background, still maintained)
-
-Apply complete! 7 resources added, 0 destroyed.
-```
+<img src="./svg-terraform.svg" alt="terraform terminal" width="100%" />
 
 <br/>
 
 ## `$ htop` — personal system monitor
 
-```text
-  CORE 0  [AWS / Cloud       ] ████████████████░░░░  78%
-  CORE 1  [Kubernetes/Docker ] ██████████████░░░░░░  70%
-  CORE 2  [Terraform/Ansible ] ████████████░░░░░░░░  60%
-  CORE 3  [Spring Boot/Java  ] ████████████████░░░░  78%
-  MEM  [experience: ~2yrs projects, 6+ shipped repos] ██████████░░░░░░░░░░  48%
-
-  PID  USER    COMMAND
-  101  hazem   devops-internship        --status running   @LeadGenAI
-  102  hazem   esprit-cloud-coursework  --status finishing  @ESPRIT
-  103  hazem   aws-cloudops-cert-prep   --status studying
-  104  hazem   bare-metal-k8s-cluster   --status building   (controller/compute/storage)
-  105  hazem   turathai-platform        --status shipped
-```
+<img src="./svg-htop.svg" alt="htop terminal" width="100%" />
 
 <br/>
 
 ## `$ ansible-playbook milestones.yml`
 
-```text
-PLAY [career] *****************************************************
-
-TASK [Complete ESPRIT Cloud Computing coursework] ******* changed
-TASK [Ship TurathAI-Platform cloud-native infra] ******** changed
-TASK [Build InvenTrack-Pro w/ JWT & RBAC security] ****** changed
-TASK [Sync TapEat-Connect across 3 platforms] *********** changed
-TASK [Begin AWS CloudOps Associate prep] **************** ok
-TASK [Stand up self-managed bare-metal k8s cluster] ***** changed
-
-PLAY RECAP *********************************************************
-career : ok=2  changed=4  unreachable=0  failed=0
-```
+<img src="./svg-ansible.svg" alt="ansible terminal" width="100%" />
 
 <br/>
 

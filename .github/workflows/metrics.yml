@@ -69,7 +69,6 @@ jobs:
           plugin_lines: yes
 
           # -- force the exact palette via metrics' CSS injection option --
-          config_output: svg
           extras_css: |
             :root { --color-prettylights-syntax-comment: #6f6480; }
             body { background-color: #1a1023 !important; }
