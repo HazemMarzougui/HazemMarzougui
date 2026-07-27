@@ -1,0 +1,35 @@
+name: snake
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate snake svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: HazemMarzougui
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          # 5-stop gradient, empty cell -> most active cell
+          # #1a1023 (empty) -> #241a33 -> #7aa2d8 -> #b48ce0 -> #f0a35a (most active)
+          color_snake: "#f0a35a"
+          color_dots: "#1a1023,#241a33,#7aa2d8,#b48ce0,#f0a35a"
+
+      - name: push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
