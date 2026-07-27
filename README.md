@@ -58,16 +58,52 @@
 
 <table width="100%">
 <tr>
-<td width="50%"><a href="https://github.com/HazemMarzougui/TurathAI-Platform"><img src="https://github-readme-stats-two-psi-35.vercel.app/api/pin/?username=HazemMarzougui&repo=TurathAI-Platform&hide_border=true&bg_color=1a1023&title_color=f0a35a&text_color=b8b0c4&border_color=241a33&icon_color=f0a35a" /></a></td>
-<td width="50%"><a href="https://github.com/HazemMarzougui/InvenTrack-Pro"><img src="https://github-readme-stats-two-psi-35.vercel.app/api/pin/?username=HazemMarzougui&repo=InvenTrack-Pro&hide_border=true&bg_color=1a1023&title_color=f0a35a&text_color=b8b0c4&border_color=241a33&icon_color=f0a35a" /></a></td>
+<td width="50%" valign="top">
+
+**[TurathAI-Platform](https://github.com/HazemMarzougui/TurathAI-Platform)**
+Cloud-native AI tourism platform.
+<br/><img src="https://img.shields.io/badge/Spring_Boot-1a1023?style=flat-square&logo=springboot&logoColor=f0a35a&labelColor=1a1023"/> <img src="https://img.shields.io/badge/Angular-1a1023?style=flat-square&logo=angular&logoColor=7aa2d8&labelColor=1a1023"/>
+
+</td>
+<td width="50%" valign="top">
+
+**[InvenTrack-Pro](https://github.com/HazemMarzougui/InvenTrack-Pro)**
+Inventory system with JWT / RBAC security.
+<br/><img src="https://img.shields.io/badge/Spring_Boot-1a1023?style=flat-square&logo=springboot&logoColor=f0a35a&labelColor=1a1023"/> <img src="https://img.shields.io/badge/JWT-1a1023?style=flat-square&logo=jsonwebtokens&logoColor=b48ce0&labelColor=1a1023"/>
+
+</td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/HazemMarzougui/TapEat-Connect"><img src="https://github-readme-stats-two-psi-35.vercel.app/api/pin/?username=HazemMarzougui&repo=TapEat-Connect&hide_border=true&bg_color=1a1023&title_color=f0a35a&text_color=b8b0c4&border_color=241a33&icon_color=f0a35a" /></a></td>
-<td width="50%"><a href="https://github.com/HazemMarzougui/Askify-Engine"><img src="https://github-readme-stats-two-psi-35.vercel.app/api/pin/?username=HazemMarzougui&repo=Askify-Engine&hide_border=true&bg_color=1a1023&title_color=f0a35a&text_color=b8b0c4&border_color=241a33&icon_color=f0a35a" /></a></td>
+<td width="50%" valign="top">
+
+**[TapEat-Connect](https://github.com/HazemMarzougui/TapEat-Connect)**
+Multi-platform sync across web, desktop &amp; mobile.
+<br/><img src="https://img.shields.io/badge/Symfony-1a1023?style=flat-square&logo=symfony&logoColor=b8b0c4&labelColor=1a1023"/> <img src="https://img.shields.io/badge/FlutterFlow-1a1023?style=flat-square&logo=flutter&logoColor=b8b0c4&labelColor=1a1023"/>
+
+</td>
+<td width="50%" valign="top">
+
+**[Askify-Engine](https://github.com/HazemMarzougui/Askify-Engine)**
+AI Q&amp;A engine with NLP-powered REST API.
+<br/><img src="https://img.shields.io/badge/Spring_Boot-1a1023?style=flat-square&logo=springboot&logoColor=f0a35a&labelColor=1a1023"/> <img src="https://img.shields.io/badge/NLP-1a1023?style=flat-square&logoColor=7aa2d8&labelColor=1a1023"/>
+
+</td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/HazemMarzougui/HomeShare-Plus"><img src="https://github-readme-stats-two-psi-35.vercel.app/api/pin/?username=HazemMarzougui&repo=HomeShare-Plus&hide_border=true&bg_color=1a1023&title_color=f0a35a&text_color=b8b0c4&border_color=241a33&icon_color=f0a35a" /></a></td>
-<td width="50%"><a href="https://github.com/HazemMarzougui/Switchini-Ecommerce"><img src="https://github-readme-stats-two-psi-35.vercel.app/api/pin/?username=HazemMarzougui&repo=Switchini-Ecommerce&hide_border=true&bg_color=1a1023&title_color=f0a35a&text_color=b8b0c4&border_color=241a33&icon_color=f0a35a" /></a></td>
+<td width="50%" valign="top">
+
+**[HomeShare-Plus](https://github.com/HazemMarzougui/HomeShare-Plus)**
+Social housing management system.
+<br/><img src="https://img.shields.io/badge/Qt-1a1023?style=flat-square&logo=qt&logoColor=b8b0c4&labelColor=1a1023"/> <img src="https://img.shields.io/badge/C%2B%2B-1a1023?style=flat-square&logo=cplusplus&logoColor=b8b0c4&labelColor=1a1023"/>
+
+</td>
+<td width="50%" valign="top">
+
+**[Switchini-Ecommerce](https://github.com/HazemMarzougui/Switchini-Ecommerce)**
+PHP MVC e-commerce platform.
+<br/><img src="https://img.shields.io/badge/PHP-1a1023?style=flat-square&logo=php&logoColor=b8b0c4&labelColor=1a1023"/>
+
+</td>
 </tr>
 </table>
 
