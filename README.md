@@ -58,16 +58,16 @@
 
 <table width="100%">
 <tr>
-<td width="50%"><a href="https://github.com/HazemMarzougui/TurathAI-Platform"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HazemMarzougui&repo=TurathAI-Platform&hide_border=true&bg_color=1a1023&title_color=f0a35a&text_color=b8b0c4&border_color=241a33&icon_color=f0a35a" /></a></td>
-<td width="50%"><a href="https://github.com/HazemMarzougui/InvenTrack-Pro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HazemMarzougui&repo=InvenTrack-Pro&hide_border=true&bg_color=1a1023&title_color=f0a35a&text_color=b8b0c4&border_color=241a33&icon_color=f0a35a" /></a></td>
+<td width="50%"><a href="https://github.com/HazemMarzougui/TurathAI-Platform"><img src="https://github-readme-stats-two-psi-35.vercel.app/api/pin/?username=HazemMarzougui&repo=TurathAI-Platform&hide_border=true&bg_color=1a1023&title_color=f0a35a&text_color=b8b0c4&border_color=241a33&icon_color=f0a35a" /></a></td>
+<td width="50%"><a href="https://github.com/HazemMarzougui/InvenTrack-Pro"><img src="https://github-readme-stats-two-psi-35.vercel.app/api/pin/?username=HazemMarzougui&repo=InvenTrack-Pro&hide_border=true&bg_color=1a1023&title_color=f0a35a&text_color=b8b0c4&border_color=241a33&icon_color=f0a35a" /></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/HazemMarzougui/TapEat-Connect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HazemMarzougui&repo=TapEat-Connect&hide_border=true&bg_color=1a1023&title_color=f0a35a&text_color=b8b0c4&border_color=241a33&icon_color=f0a35a" /></a></td>
-<td width="50%"><a href="https://github.com/HazemMarzougui/Askify-Engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HazemMarzougui&repo=Askify-Engine&hide_border=true&bg_color=1a1023&title_color=f0a35a&text_color=b8b0c4&border_color=241a33&icon_color=f0a35a" /></a></td>
+<td width="50%"><a href="https://github.com/HazemMarzougui/TapEat-Connect"><img src="https://github-readme-stats-two-psi-35.vercel.app/api/pin/?username=HazemMarzougui&repo=TapEat-Connect&hide_border=true&bg_color=1a1023&title_color=f0a35a&text_color=b8b0c4&border_color=241a33&icon_color=f0a35a" /></a></td>
+<td width="50%"><a href="https://github.com/HazemMarzougui/Askify-Engine"><img src="https://github-readme-stats-two-psi-35.vercel.app/api/pin/?username=HazemMarzougui&repo=Askify-Engine&hide_border=true&bg_color=1a1023&title_color=f0a35a&text_color=b8b0c4&border_color=241a33&icon_color=f0a35a" /></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/HazemMarzougui/HomeShare-Plus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HazemMarzougui&repo=HomeShare-Plus&hide_border=true&bg_color=1a1023&title_color=f0a35a&text_color=b8b0c4&border_color=241a33&icon_color=f0a35a" /></a></td>
-<td width="50%"><a href="https://github.com/HazemMarzougui/Switchini-Ecommerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=HazemMarzougui&repo=Switchini-Ecommerce&hide_border=true&bg_color=1a1023&title_color=f0a35a&text_color=b8b0c4&border_color=241a33&icon_color=f0a35a" /></a></td>
+<td width="50%"><a href="https://github.com/HazemMarzougui/HomeShare-Plus"><img src="https://github-readme-stats-two-psi-35.vercel.app/api/pin/?username=HazemMarzougui&repo=HomeShare-Plus&hide_border=true&bg_color=1a1023&title_color=f0a35a&text_color=b8b0c4&border_color=241a33&icon_color=f0a35a" /></a></td>
+<td width="50%"><a href="https://github.com/HazemMarzougui/Switchini-Ecommerce"><img src="https://github-readme-stats-two-psi-35.vercel.app/api/pin/?username=HazemMarzougui&repo=Switchini-Ecommerce&hide_border=true&bg_color=1a1023&title_color=f0a35a&text_color=b8b0c4&border_color=241a33&icon_color=f0a35a" /></a></td>
 </tr>
 </table>
 
@@ -85,7 +85,7 @@
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=HazemMarzougui&theme=travelers-theme&hide_border=true&border_radius=23.7&background=1A1023&border=F0A35A&stroke=B8B0C4&ring=F0A35A&fire=F0A35A&currStreakNum=B8B0C4&sideNums=B8B0C4&currStreakLabel=F0A35A&sideLabels=F0A35A)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=HazemMarzougui&theme=travelers-theme&hide_border=true&border_radius=23.7&locale=en&short_numbers=false&mode=daily&sections=total,current,longest&properties=dates&background=1A1023&border=F0A35A&stroke=B8B0C4&ring=F0A35A&fire=F0A35A&currStreakNum=B8B0C4&sideNums=B8B0C4&currStreakLabel=F0A35A&sideLabels=F0A35A)](https://git.io/streak-stats)
 
 <br/>
 
